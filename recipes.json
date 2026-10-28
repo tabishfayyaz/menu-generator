@@ -1,0 +1,147 @@
+{
+  "Chicken": {
+    "Chicken Karahi": [
+      "Chicken"
+    ],
+    "Chicken Biryani": [
+      "Chicken"
+    ],
+    "Chicken Qorma": [
+      "Chicken"
+    ],
+    "Chicken Pulao": [
+      "Chicken"
+    ],
+    "Chicken Chargha":[
+
+    ],
+    "Kaali Mirchi Chicken Karahi":[
+
+    ],
+    "White Chicken Karahi":[
+
+    ],
+    "Chicken 65":[
+
+    ]
+  },
+  "Goat": {
+    "Goat Karahi": [
+      "Goat"
+    ],
+    "Aloo Gosht": [
+      "Goat"
+    ],
+    "Aloo Matar Keema": [
+      "Goat Keema"
+    ],
+    "Keema Biryani":[
+      "Goat Keema"
+    ],
+    "Chaampein":[
+
+    ],
+    "Goat Biryani":[
+
+    ],
+    "Goat Pulao":[
+
+    ],
+    "Gobi Keema":[
+
+    ],
+    "Gobi Gosht":[
+
+    ],
+    "Raan Roast":[
+
+    ],
+    "Gajjar Gosht":[
+
+    ]
+  },
+  "Beef": {
+    "Kaali Daal": [
+      "Black lentils",
+      "Salt",
+      "Zeera",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cream"
+    ]
+  },
+  "Vegetable": {
+    "Aloo Gobi": [
+      "Potatoes",
+      "Cauliflower",
+      "Onion",
+      "Tomatoes",
+      "Turmeric",
+      "Zeera",
+      "Salt"
+    ]
+  },
+  "Lentils": {
+    "Kaali Daal": [
+      "Black lentils",
+      "Salt",
+      "Zeera",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cream"
+    ],
+    "Masoor Daal": [
+      "Red lentils",
+      "Salt",
+      "Turmeric",
+      "Onion",
+      "Tomatoes",
+      "Zeera",
+      "Garlic"
+    ],
+    "Chana Daal": [
+      "Split chickpeas",
+      "Salt",
+      "Turmeric",
+      "Onion",
+      "Tomatoes",
+      "Ginger",
+      "Garlic"
+    ]
+  },
+  "Keto friendly": {
+    "Chicken Pasta": [
+      "Black lentils",
+      "Salt",
+      "Zeera",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cream"
+    ]
+  },
+  "Seafood": {
+    "Kaali Daal": [
+      "Black lentils",
+      "Salt",
+      "Zeera",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cream"
+    ]
+  },
+  "Continental": {
+    "Chicken Pasta": [
+      "Black lentils",
+      "Salt",
+      "Zeera",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cream"
+    ]
+  }
+}

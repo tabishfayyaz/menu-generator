@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f7f5">
+  <title>Menu Planner</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="page-header">
+      <h1>Menu Planner</h1>
+      <p id="subtitle">Choose your weekly dishes</p>
+    </header>
+
+    <nav class="progress" aria-label="Menu planning progress">
+      <div class="progress-step is-current" id="step-config"><span>1</span> Choose dishes</div>
+      <div class="progress-line" aria-hidden="true"></div>
+      <div class="progress-step" id="step-menu"><span>2</span> Your menu</div>
+    </nav>
+
+    <div id="status" class="status" role="status" aria-live="polite">Loading recipes…</div>
+
+    <section id="config-screen" class="screen" hidden>
+      <div class="section-heading">
+        <div><h2>Build your week</h2><p>Choose how many dishes from each category.</p></div>
+        <div class="total-pill" id="total-count">0 / 7</div>
+      </div>
+      <div id="categories" class="category-list"></div>
+      <button id="generate-button" class="button button-primary" disabled>Generate Menu <span aria-hidden="true">→</span></button>
+    </section>
+
+    <section id="menu-screen" class="screen" hidden>
+      <div class="menu-heading">
+        <div><h2>Your weekly menu</h2><p id="menu-summary"></p></div>
+        <button id="edit-button" class="button button-quiet">Edit</button>
+      </div>
+      <div id="menu-cards" class="menu-list"></div>
+      <div class="menu-actions">
+        <button id="regenerate-button" class="button button-secondary">Regenerate Entire Menu</button>
+        <button id="copy-menu-button" class="button button-quiet">Copy Menu</button>
+      </div>
+
+      <section class="shopping-section" aria-labelledby="shopping-title">
+        <div class="shopping-heading">
+          <div><h2 id="shopping-title">Shopping List</h2><p id="shopping-summary"></p></div>
+          <button id="reset-button" class="button button-quiet">Reset</button>
+        </div>
+        <ul id="shopping-list" class="shopping-list"></ul>
+        <button id="copy-shopping-button" class="button button-primary">Copy Shopping List</button>
+        <p id="copy-feedback" class="copy-feedback" role="status" aria-live="polite"></p>
+      </section>
+    </section>
+    <footer>Made for a more organized week.</footer>
+  </main>
+</body>
+</html>
