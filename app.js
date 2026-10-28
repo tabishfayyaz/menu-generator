@@ -167,8 +167,8 @@ function ingredientKey(value) { return value.trim().toLocaleLowerCase(); }
 // Run validateRecipeIngredients() in the browser console to check the two JSON files.
 async function validateRecipeIngredients() {
   const [recipeResponse, ingredientResponse] = await Promise.all([
-    fetch("recipes.json"),
-    fetch("ingredients.json")
+    fetch("recipes.json", { cache: "no-store" }),
+    fetch("ingredients.json", { cache: "no-store" })
   ]);
   if (!recipeResponse.ok || !ingredientResponse.ok) {
     throw new Error("Could not load recipes.json or ingredients.json");
@@ -270,7 +270,7 @@ document.querySelector("#copy-shopping-button").addEventListener("click", () => 
 
 async function loadRecipes() {
   try {
-    const response = await fetch("recipes.json");
+    const response = await fetch("recipes.json", { cache: "no-store" });
     if (!response.ok) throw new Error(`Recipe file returned ${response.status}`);
     const data = await response.json();
     if (!validCatalog(data)) throw new Error("Recipe data is empty or has an invalid format");

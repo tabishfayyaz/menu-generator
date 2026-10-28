@@ -1,27 +1,45 @@
 {
   "Chicken": {
     "Chicken Karahi": [
-      "Chicken"
+      "Chicken", "Tomatoes", "Ginger", "Green Chillies", "Coriander Leaves", "Salt", "Black Pepper", "Coriander Powder", "Cumin Powder", "Yogurt"
     ],
     "Chicken Biryani": [
-      "Chicken"
+      "Chicken", "Onions", "Ginger Garlic Paste", "Tomatoes", "Shan Biryani Masala", "Yogurt", "Potatoes", "Plums", "Coriander Leaves", "Rice", "Mint Leaves", "Food Color", "Salt"
     ],
     "Chicken Qorma": [
-      "Chicken"
+      "Chicken", "Onions", "Yogurt", "Salt", "Red Chilli Powder", "Turmeric Powder", "Ginger Garlic Paste", "Cloves", "Bay Leaves", "Black Cardamom", "Black Pepper Corn", "Cumin Seeds", "Almonds"
     ],
     "Chicken Pulao": [
-      "Chicken"
+      "Chicken", "Onions", "Ginger Garlic Paste", "Khara Masala", "Tomatoes", "Yogurt", "Rice"
     ],
     "Chicken Chargha":[
-
+      "Whole Chicken", "Yogurt", "Eggs", "Ginger Garlic Paste", "Turmeric Powder", "Red Chilli Powder", "Cumin Powder", "Garam Masala", "Lemon Juice", "Chaat Masala", "Elaichi Powder", "Salt", "Jaifal Powder", "Food Color"
     ],
     "Kaali Mirchi Chicken Karahi":[
-
+      "Chicken", "Ginger Garlic Paste", "Onion", "Tomatoes", "Salt", "Black Pepper" 
     ],
     "White Chicken Karahi":[
-
+      "Chicken", "Onions", "Ginger Garlic Paste", "Salt", "Yogurt", "White Pepper Powder", "Coriander Powder", "Cumin Powder", "Black Pepper", "Green Chillies", "Ginger", "Coriander Leaves", "Cream"
     ],
     "Chicken 65":[
+      "Chicken", "Salt", "Ginger Garlic Paste", "Kashmiri Chilli Powder", "Black Pepper", "Yogurt", "Food Color", "Corn Flour", "Rice Flour"
+    ],
+    "Chicken Machurian":[
+      "Chicken", "Eggs", "Vinegar", "Soya Sauce", "Hot Sauce", "Ginger Garlic Paste", "Salt", "Black Pepper", "Red Chilli Flakes", "Flour(Maida)", "Corn Flour", "Spring Onions", "Ketchup", "Chilli Garlic Sauce", "Paprika Powder"
+    ],
+    "Chicken Chilli Dry":[
+      "Chicken", "Eggs", "Vinegar", "Soya Sauce", "Hot Sauce", "Ginger Garlic Paste", "Salt", "Black Pepper", "Red Chilli Flakes", "Flour(Maida)", "Corn Flour", "Garlic Paste", "Chicken Cubes", "Green Chillies"
+    ],
+    "Murgh Chanay":[
+      "Chickpeas", "Onions", "Garlic Paste", "Black Pepper", "Salt", "Red Chilli Powder", "Cloves", "Whole Cinnamon", "Cumin Seeds", "Black Cardamom", "Baking Soda", "Green Chillies", "Turmeric Powder", "Eggs", "Coriander Leaves"
+    ],    
+    "Tandoori Chicken":[
+      "Chicken", "Hungcurd", "Ginger Garlic Paste", "Turmeric Powder", "Red Chilli Powder", "Kashmiri Chilli Powder", "Cumin Powder", "Coriander Powder", "Black Pepper", "Chaat Masala", "Garam Masala", "Ajwain", "Kasuri Meethi", "Baking Soda", "Salt", "Lemon Juice", "Food Color"
+    ],
+    "Chana Daal Chicken":[
+      "Chicken", "Chana Daal", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Coriander Powder", "Garam Masala", "Black Pepper"
+    ],
+    "Steam Chicken":[
 
     ]
   },
@@ -60,20 +78,8 @@
 
     ]
   },
-  "Beef": {
-    "Kaali Daal": [
-      "Black lentils",
-      "Salt",
-      "Zeera",
-      "Onion",
-      "Garlic",
-      "Ginger",
-      "Cream"
-    ]
-  },
   "Vegetable": {
-    "Aloo Gobi": [
-      "Potatoes",
+    "Gobi": [
       "Cauliflower",
       "Onion",
       "Tomatoes",
@@ -85,12 +91,7 @@
   "Lentils": {
     "Kaali Daal": [
       "Black lentils",
-      "Salt",
-      "Zeera",
-      "Onion",
-      "Garlic",
-      "Ginger",
-      "Cream"
+      "Salt"
     ],
     "Masoor Daal": [
       "Red lentils",
@@ -98,50 +99,31 @@
       "Turmeric",
       "Onion",
       "Tomatoes",
-      "Zeera",
-      "Garlic"
+      "Zeera"
     ],
     "Chana Daal": [
-      "Split chickpeas",
+      "Chana Daal",
       "Salt",
       "Turmeric",
       "Onion",
-      "Tomatoes",
-      "Ginger",
-      "Garlic"
+      "Tomatoes"
     ]
   },
-  "Keto friendly": {
-    "Chicken Pasta": [
-      "Black lentils",
-      "Salt",
-      "Zeera",
-      "Onion",
-      "Garlic",
-      "Ginger",
-      "Cream"
+  "Salad": {
+    "Tandoori Chicken Salad": [
+      "Chicken"
     ]
   },
   "Seafood": {
-    "Kaali Daal": [
-      "Black lentils",
-      "Salt",
-      "Zeera",
-      "Onion",
-      "Garlic",
-      "Ginger",
-      "Cream"
+    "Baked Salmon": [
     ]
   },
   "Continental": {
     "Chicken Pasta": [
-      "Black lentils",
-      "Salt",
-      "Zeera",
-      "Onion",
-      "Garlic",
-      "Ginger",
-      "Cream"
+      "Chicken",
+      "Creme Fraiche",
+      "Cheddar Cheese",
+      "Sea shell Pasta"
     ]
   }
 }
