@@ -1,7 +1,21 @@
 {
   "Chicken": {
     "Achari Chicken": [
-
+      "Chicken",
+      "Salt",
+      "Ginger Garlic Paste",
+      "Onions",
+      "Yogurt",
+      "Tomatoes",
+      "Red Chilli Powder",
+      "Whole Coriander",
+      "Whole Cumin",
+      "Saunf",
+      "Mustard Seeds",
+      "Kalongi",
+      "Funegreek Seeds",
+      "Green Chillies",
+      "Coriander Leaves"
     ],
     "White Chicken Handi": [
       "Boneless Chicken",
@@ -216,7 +230,23 @@
     ]
   },
   "Goat": {
-    "Achari Gosht": [],
+    "Achari Gosht": [
+      "Chicken",
+      "Salt",
+      "Ginger Garlic Paste",
+      "Onions",
+      "Yogurt",
+      "Tomatoes",
+      "Red Chilli Powder",
+      "Whole Coriander",
+      "Whole Cumin",
+      "Saunf",
+      "Mustard Seeds",
+      "Kalongi",
+      "Funegreek Seeds",
+      "Green Chillies",
+      "Coriander Leaves"
+    ],
     "Goat Karahi": [
       "Goat",
       "Onions",
