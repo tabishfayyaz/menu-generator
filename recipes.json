@@ -1,111 +1,506 @@
 {
   "Chicken": {
+    "White Chicken Handi": [],
+    "Achari Chicken": [],
+    "Steam Chicken": [
+      "Chicken Leg Quarters",
+      "Salt",
+      "Red Chilli Powder",
+      "Red Chilli Flakes",
+      "Turmeric Powder",
+      "Chaat Masala",
+      "Garlic Paste",
+      "Food Color"
+    ],
+    "Grilled Chicken with Garlic Rice": [
+      "Boneless Chicken",
+      "Paprika Powder",
+      "Black Pepper",
+      "Salt",
+      "Ginger Garlic Paste",
+      "Coriander Leaves",
+      "Soya Sauce",
+      "Vinegar",
+      "Butter",
+      "Onions",
+      "Garlic Paste",
+      "Flour(Maida)",
+      "Chilli Garlic Sauce",
+      "Knorr Chicken Cubes",
+      "Green Onions",
+      "Rice",
+      "Capsicum",
+      "Red Bell Pepper"
+    ],
     "Chicken Karahi": [
-      "Chicken", "Tomatoes", "Ginger", "Green Chillies", "Coriander Leaves", "Salt", "Black Pepper", "Coriander Powder", "Cumin Powder", "Yogurt"
+      "Chicken",
+      "Tomatoes",
+      "Ginger",
+      "Green Chillies",
+      "Coriander Leaves",
+      "Salt",
+      "Black Pepper",
+      "Coriander Powder",
+      "Cumin Powder",
+      "Yogurt"
     ],
     "Chicken Biryani": [
-      "Chicken", "Onions", "Ginger Garlic Paste", "Tomatoes", "Shan Biryani Masala", "Yogurt", "Potatoes", "Plums", "Coriander Leaves", "Rice", "Mint Leaves", "Food Color", "Salt"
+      "Chicken",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Tomatoes",
+      "Shan Biryani Masala",
+      "Yogurt",
+      "Potatoes",
+      "Plums",
+      "Coriander Leaves",
+      "Rice",
+      "Mint Leaves",
+      "Food Color",
+      "Salt"
     ],
     "Chicken Korma": [
-      "Chicken", "Onions", "Yogurt", "Salt", "Red Chilli Powder", "Turmeric Powder", "Ginger Garlic Paste", "Cloves", "Bay Leaves", "Black Cardamom", "Black Pepper Corns", "Cumin Seeds", "Almonds"
+      "Chicken",
+      "Onions",
+      "Yogurt",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Ginger Garlic Paste",
+      "Cloves",
+      "Bay Leaves",
+      "Black Cardamom",
+      "Black Pepper Corns",
+      "Cumin Seeds",
+      "Almonds"
     ],
     "Chicken Pulao": [
-      "Chicken", "Onions", "Ginger Garlic Paste", "Khara Masala", "Tomatoes", "Yogurt", "Rice"
+      "Chicken",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Khara Masala",
+      "Tomatoes",
+      "Yogurt",
+      "Rice"
     ],
-    "Chicken Chargha":[
-      "Whole Chicken", "Yogurt", "Eggs", "Ginger Garlic Paste", "Turmeric Powder", "Red Chilli Powder", "Cumin Powder", "Garam Masala", "Lemon Juice", "Chaat Masala", "Elaichi Powder", "Salt", "Jaifal Powder", "Food Color"
+    "Chicken Chargha": [
+      "Whole Chicken",
+      "Yogurt",
+      "Eggs",
+      "Ginger Garlic Paste",
+      "Turmeric Powder",
+      "Red Chilli Powder",
+      "Cumin Powder",
+      "Garam Masala",
+      "Lemon Juice",
+      "Chaat Masala",
+      "Elaichi Powder",
+      "Salt",
+      "Jaifal Powder",
+      "Food Color"
     ],
-    "Kaali Mirchi Chicken Karahi":[
-      "Chicken", "Ginger Garlic Paste", "Onions", "Tomatoes", "Salt", "Black Pepper" 
+    "Kaali Mirchi Chicken Karahi": [
+      "Chicken",
+      "Ginger Garlic Paste",
+      "Onions",
+      "Tomatoes",
+      "Salt",
+      "Black Pepper"
     ],
-    "White Chicken Karahi":[
-      "Chicken", "Onions", "Ginger Garlic Paste", "Salt", "Yogurt", "White Pepper Powder", "Coriander Powder", "Cumin Powder", "Black Pepper", "Green Chillies", "Ginger", "Coriander Leaves", "Cream"
+    "White Chicken Karahi": [
+      "Chicken",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Yogurt",
+      "White Pepper Powder",
+      "Coriander Powder",
+      "Cumin Powder",
+      "Black Pepper",
+      "Green Chillies",
+      "Ginger",
+      "Coriander Leaves",
+      "Cream"
     ],
-    "Chicken 65":[
-      "Chicken", "Salt", "Ginger Garlic Paste", "Kashmiri Chilli Powder", "Black Pepper", "Yogurt", "Food Color", "Corn Flour", "Rice Flour"
+    "Chicken 65": [
+      "Chicken",
+      "Salt",
+      "Ginger Garlic Paste",
+      "Kashmiri Chilli Powder",
+      "Black Pepper",
+      "Yogurt",
+      "Food Color",
+      "Corn Flour",
+      "Rice Flour"
     ],
-    "Chicken Machurian":[
-      "Chicken", "Eggs", "Vinegar", "Soya Sauce", "Hot Sauce", "Ginger Garlic Paste", "Salt", "Black Pepper", "Red Chilli Flakes", "Flour(Maida)", "Corn Flour", "Spring Onions", "Ketchup", "Chilli Garlic Sauce", "Paprika Powder"
+    "Chicken Machurian": [
+      "Chicken",
+      "Eggs",
+      "Vinegar",
+      "Soya Sauce",
+      "Hot Sauce",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Black Pepper",
+      "Red Chilli Flakes",
+      "Flour(Maida)",
+      "Corn Flour",
+      "Green Onions",
+      "Ketchup",
+      "Chilli Garlic Sauce",
+      "Paprika Powder"
     ],
-    "Chicken Chilli Dry":[
-      "Chicken", "Eggs", "Vinegar", "Soya Sauce", "Hot Sauce", "Ginger Garlic Paste", "Salt", "Black Pepper", "Red Chilli Flakes", "Flour(Maida)", "Corn Flour", "Garlic Paste", "Knorr Chicken Cubes", "Green Chillies"
+    "Chicken Chilli Dry": [
+      "Chicken",
+      "Eggs",
+      "Vinegar",
+      "Soya Sauce",
+      "Hot Sauce",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Black Pepper",
+      "Red Chilli Flakes",
+      "Flour(Maida)",
+      "Corn Flour",
+      "Garlic Paste",
+      "Knorr Chicken Cubes",
+      "Green Chillies"
     ],
-    "Murgh Chanay":[
-      "Chickpeas", "Onions", "Garlic Paste", "Black Pepper", "Salt", "Red Chilli Powder", "Cloves", "Whole Cinnamon", "Cumin Seeds", "Black Cardamom", "Baking Soda", "Green Chillies", "Turmeric Powder", "Eggs", "Coriander Leaves"
-    ],    
-    "Tandoori Chicken":[
-      "Chicken", "Hungcurd", "Ginger Garlic Paste", "Turmeric Powder", "Red Chilli Powder", "Kashmiri Chilli Powder", "Cumin Powder", "Coriander Powder", "Black Pepper", "Chaat Masala", "Garam Masala", "Ajwain", "Kasuri Meethi", "Baking Soda", "Salt", "Lemon Juice", "Food Color"
+    "Murgh Chanay": [
+      "Chickpeas",
+      "Onions",
+      "Garlic Paste",
+      "Black Pepper",
+      "Salt",
+      "Red Chilli Powder",
+      "Cloves",
+      "Whole Cinnamon",
+      "Cumin Seeds",
+      "Black Cardamom",
+      "Baking Soda",
+      "Green Chillies",
+      "Turmeric Powder",
+      "Eggs",
+      "Coriander Leaves"
     ],
-    "Chana Daal Chicken":[
-      "Chicken", "Chana Daal", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Coriander Powder", "Garam Masala", "Black Pepper"
+    "Tandoori Chicken": [
+      "Chicken Leg Quarters",
+      "Hungcurd",
+      "Ginger Garlic Paste",
+      "Turmeric Powder",
+      "Red Chilli Powder",
+      "Kashmiri Chilli Powder",
+      "Cumin Powder",
+      "Coriander Powder",
+      "Black Pepper",
+      "Chaat Masala",
+      "Garam Masala",
+      "Ajwain",
+      "Kasuri Meethi",
+      "Baking Soda",
+      "Salt",
+      "Lemon Juice",
+      "Food Color"
     ],
-    "Steam Chicken":[
-
+    "Chana Daal Chicken": [
+      "Chicken",
+      "Chana Daal",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Garam Masala",
+      "Black Pepper"
     ]
   },
   "Goat": {
+    "Achari Gosht": [],
     "Goat Karahi": [
-      "Goat", "Onions", "Tomatoes", "Salt", "Red Chilli Powder", "Coriander Powder", "Cumin Powder", "Black Pepper", "Ginger", "Green Chillies", "Yogurt", "Coriander Leaves"
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Salt",
+      "Red Chilli Powder",
+      "Coriander Powder",
+      "Cumin Powder",
+      "Black Pepper",
+      "Ginger",
+      "Green Chillies",
+      "Yogurt",
+      "Coriander Leaves"
     ],
     "Nalli Gosht": [
-      "Goat", "Tomatoes", "Salt", "Ginger", "Black Pepper Corns", "Black Pepper", "Coriander Powder", "Green Chillies"
+      "Goat",
+      "Tomatoes",
+      "Salt",
+      "Ginger",
+      "Black Pepper Corns",
+      "Black Pepper",
+      "Coriander Powder",
+      "Green Chillies"
     ],
     "Goat Korma": [
-      "Goat", "Onions", "Yogurt", "Salt", "Red Chilli Powder", "Turmeric Powder", "Ginger Garlic Paste", "Cloves", "Bay Leaves", "Black Cardamom", "Black Pepper Corns", "Cumin Seeds", "Almonds"
+      "Goat",
+      "Onions",
+      "Yogurt",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Ginger Garlic Paste",
+      "Cloves",
+      "Bay Leaves",
+      "Black Cardamom",
+      "Black Pepper Corns",
+      "Cumin Seeds",
+      "Almonds"
     ],
     "Aloo Gosht": [
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Potatoes", "Garam Masala"
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Potatoes",
+      "Garam Masala"
     ],
     "Aloo Matar Gosht": [
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Potatoes", "Peas", "Garam Masala"
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Potatoes",
+      "Peas",
+      "Garam Masala"
     ],
     "Chana Daal Gosht": [
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Chana Daal", "Green Chillies", "Garam Masala", "Coriander Leaves"
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Chana Daal",
+      "Green Chillies",
+      "Garam Masala",
+      "Coriander Leaves"
     ],
     "Urvi Gosht": [
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Urvi", "Garam Masala"
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Urvi",
+      "Garam Masala"
     ],
     "Aloo Matar Keema": [
-      "Goat Keema", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Potatoes", "Peas"
+      "Goat Keema",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Potatoes",
+      "Peas"
     ],
-    "Keema Biryani":[
-      "Goat Keema", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Cumin Seeds", "Garam Masala", "Coriander Leaves", "Mint Leaves", "Green Chillies", "Rice", "Eggs"
+    "Keema Biryani": [
+      "Goat Keema",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Cumin Seeds",
+      "Garam Masala",
+      "Coriander Leaves",
+      "Mint Leaves",
+      "Green Chillies",
+      "Rice",
+      "Eggs"
     ],
-    "Chaampein":[
-      "Goat Chaamp", "Onions", "Tomatoes", "Green Chillies", "Ginger", "Red Chilli Powder", "Cumin Powder", "Coriander Powder", "Turmeric Powder", "Salt", "Coriander Leaves", "Ginger Garlic Paste"
+    "Chaampein": [
+      "Goat Chaamp",
+      "Onions",
+      "Tomatoes",
+      "Green Chillies",
+      "Ginger",
+      "Red Chilli Powder",
+      "Cumin Powder",
+      "Coriander Powder",
+      "Turmeric Powder",
+      "Salt",
+      "Coriander Leaves",
+      "Ginger Garlic Paste"
     ],
-    "Goat Biryani":[
-      "Goat", "Onions", "Ginger Garlic Paste", "Tomatoes", "Shan Biryani Masala", "Yogurt", "Potatoes", "Plums", "Coriander Leaves", "Rice", "Mint Leaves", "Food Color", "Salt"
+    "Goat Biryani": [
+      "Goat",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Tomatoes",
+      "Shan Biryani Masala",
+      "Yogurt",
+      "Potatoes",
+      "Plums",
+      "Coriander Leaves",
+      "Rice",
+      "Mint Leaves",
+      "Food Color",
+      "Salt"
     ],
-    "Goat Pulao":[
-      "Goat", "Onions", "Ginger Garlic Paste", "Khara Masala", "Tomatoes", "Yogurt", "Rice", "Garlic", "Ginger"
+    "Goat Pulao": [
+      "Goat",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Khara Masala",
+      "Tomatoes",
+      "Yogurt",
+      "Rice",
+      "Garlic",
+      "Ginger"
     ],
-    "Gobi Keema":[
-      "Goat Keema", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Gobi", "Garam Masala", "Coriander Leaves"
+    "Gobi Keema": [
+      "Goat Keema",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Gobi",
+      "Garam Masala",
+      "Coriander Leaves"
     ],
-    "Gobi Gosht":[
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Gobi", "Garam Masala", "Green Chillies", "Coriander Leaves"
+    "Gobi Gosht": [
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Gobi",
+      "Garam Masala",
+      "Green Chillies",
+      "Coriander Leaves"
     ],
-    "Raan Roast":[
-      "Goat leg", "Yogurt", "Salt", "Red Chilli Powder", "Red Chilli Flakes", "Chat Masala", "Cumin Powder", "Coriander Powder", "Ajwain", "Black Pepper", "Garam Masala", "Ginger Garlic Paste", "Lemon Juice", "Vinegar"
+    "Raan Roast": [
+      "Goat leg",
+      "Yogurt",
+      "Salt",
+      "Red Chilli Powder",
+      "Red Chilli Flakes",
+      "Chat Masala",
+      "Cumin Powder",
+      "Coriander Powder",
+      "Ajwain",
+      "Black Pepper",
+      "Garam Masala",
+      "Ginger Garlic Paste",
+      "Lemon Juice",
+      "Vinegar"
     ],
-    "Gajjar Gosht":[
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Gajjar", "Garam Masala", "Green Chillies", "Coriander Leaves"
+    "Gajjar Gosht": [
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Gajjar",
+      "Garam Masala",
+      "Green Chillies",
+      "Coriander Leaves"
     ],
-    "Palak Gosht":[
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Coriander Powder", "Cumin Seeds", "Cloves", "Cinnamon", "Black Cardamom", "Green Cardamom", "Kasuri Meethi", "Yogurt", "Milk"
+    "Palak Gosht": [
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Cumin Seeds",
+      "Cloves",
+      "Cinnamon",
+      "Black Cardamom",
+      "Green Cardamom",
+      "Kasuri Meethi",
+      "Yogurt",
+      "Milk"
     ],
-    "Koftay":[
-      "Goat Keema", "Onions", "Ginger Garlic Paste", "Green Chillies", "Coriander Leaves", "Salt", "Red Chilli Powder", "Turmeric Powder", "Coriander Powder", "Chana Powder", "Garam Masala", "Tomatoes", "Eggs"
+    "Koftay": [
+      "Goat Keema",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Green Chillies",
+      "Coriander Leaves",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Chana Powder",
+      "Garam Masala",
+      "Tomatoes",
+      "Eggs"
     ],
-    "Masala Kebab":[
-      "Goat Keema", "Onions", "Ginger Garlic Paste", "Chana Powder", "Coriander Powder", "Salt", "Red Chilli Powder", "Turmeric Powder", "Green Chillies", "Tomatoes"
+    "Masala Kebab": [
+      "Goat Keema",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Chana Powder",
+      "Coriander Powder",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Green Chillies",
+      "Tomatoes"
     ],
-    "Keema Paratha":[
-      "Goat Keema", "Onions", "Green Chillies", "Coriander Leaves", "Tomatoes", "Red Chilli Powder", "Turmeric Powder", "Coriander Powder", "Garam Masala"
+    "Keema Paratha": [
+      "Goat Keema",
+      "Onions",
+      "Green Chillies",
+      "Coriander Leaves",
+      "Tomatoes",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Garam Masala"
     ],
-    "Bhindi Gosht":[
-      "Goat", "Onions", "Tomatoes", "Ginger Garlic Paste", "Salt", "Red Chilli Powder", "Turmeric Powder", "Bhindi"
+    "Bhindi Gosht": [
+      "Goat",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Bhindi"
+    ],
+    "Khara Masala": [
+      "Goat",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Cumin Seeds",
+      "Turmeric Powder",
+      "Salt",
+      "Coriander Powder",
+      "Whole Red Chillies",
+      "Yogurt",
+      "Tomatoes"
     ]
   },
   "Vegetable": {
@@ -119,25 +514,239 @@
     ]
   },
   "Lentils": {
+    "Kaalay Chanay": [
+      "Kaala Chanay",
+      "Salt",
+      "Turmeric Powder",
+      "Onions",
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Red Chilli Powder"
+    ],
+    "Gogay kay Chanay": [
+      "Chickpeas",
+      "Pink Daal",
+      "Chana Daal",
+      "Red Chilli Powder",
+      "Salt",
+      "Black Pepper",
+      "Garam Masala",
+      "Whole Cumin",
+      "Baking Soda"
+    ],
     "Kaali Daal": [
       "Kaali Daal",
-      "Salt"
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Garlic Paste",
+      "Milk",
+      "Rice"
     ],
     "Chana Daal": [
       "Chana Daal",
       "Salt",
-      "Turmeric",
+      "Turmeric Powder",
       "Onions",
-      "Tomatoes"
+      "Tomatoes",
+      "Ginger Garlic Paste",
+      "Red Chilli Powder",
+      "Garam Masala",
+      "Green Chillies",
+      "Coriander Leaves"
+    ],
+    "Mash Daal": [
+      "Mash Daal",
+      "Garlic Paste",
+      "Ginger",
+      "Tomatoes",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Cumin Powder",
+      "Whole Red Chillies",
+      "Garam Masala",
+      "Coriander Leaves"
+    ],
+    "Yellow Pink Daal": [
+      "Mong Daal",
+      "Pink Daal",
+      "Garlic Paste",
+      "Ginger",
+      "Tomatoes",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Whole Cumin",
+      "Kalongi",
+      "Whole Red Chillies",
+      "Onions",
+      "Ghee",
+      "Rice",
+      "Garam Masala",
+      "Coriander Leaves"
     ]
   },
   "Salad": {
     "Tandoori Chicken Salad": [
-      "Chicken"
+      "Boneless Chicken",
+      "Yogurt",
+      "Lemon Juice",
+      "Ginger Garlic Paste",
+      "Kashmiri Chilli Powder",
+      "Cumin Powder",
+      "Coriander Powder",
+      "Turmeric",
+      "Shan Tandoori Masala",
+      "Salt",
+      "Green Salad",
+      "Salad Tomatoes",
+      "Onions",
+      "Capsicum",
+      "Corns",
+      "Coriander Leaves",
+      "Avocado",
+      "Mayonnaise",
+      "Mint Leaves",
+      "Green Chillies"
+    ],
+    "Spicy Chicken Salad": [
+      "Boneless Chicken",
+      "Oregano",
+      "Salt",
+      "Paprika Powder",
+      "Red Chilli Flakes",
+      "Cumin Powder",
+      "Garlic Powder",
+      "Onion Powder",
+      "Yogurt",
+      "Mayonnaise",
+      "Hot Sauce",
+      "Lemon Juice",
+      "Honey",
+      "Green Salad",
+      "Salad Tomatoes",
+      "Onions",
+      "Cucumber",
+      "Corns",
+      "Kidney Beans"
+    ],
+    "Chicken and Bean Salad": [
+      "Boneless Chicken",
+      "Lemon Juice",
+      "Garlic Powder",
+      "Paprika Powder",
+      "Cumin Powder",
+      "Oregano",
+      "Salt",
+      "Black Pepper",
+      "Onion Powder",
+      "Yogurt",
+      "Chickpeas",
+      "Kidney Beans",
+      "Corns",
+      "Salad Tomatoes",
+      "Cucumber",
+      "Red Bell Pepper",
+      "Coriander Leaves",
+      "Vinegar",
+      "Mustard Sauce"
+    ],
+    "Apple Avocado Walnut Salad": [
+      "Green Salad",
+      "Cucumber",
+      "Salad Tomatoes",
+      "Carrots",
+      "Avocado",
+      "Apple",
+      "Walnuts",
+      "Vinegar",
+      "Lemon Juice",
+      "Honey",
+      "Salt",
+      "Black Pepper"
+    ],
+    "Grilled Chicken and Corn Salad": [
+      "Boneless Chicken",
+      "Salt",
+      "Black Pepper",
+      "Onion Powder",
+      "Garlic Powder",
+      "Green Salad",
+      "Onions",
+      "Cucumber",
+      "Salad Tomatoes",
+      "Corns",
+      "Coriander Leaves",
+      "Yogurt",
+      "Lemon Juice",
+      "Garlic Paste",
+      "Honey",
+      "Salt",
+      "Black Pepper",
+      "Cumin Powder",
+      "Paprika Powder"
+    ],
+    "Chicken Cucumber Salad": [
+      "Boneless Chicken",
+      "Salt",
+      "Black Pepper",
+      "Paprika Powder",
+      "Garlic Powder",
+      "Onion Powder",
+      "Cucumber",
+      "Carrots",
+      "Onions",
+      "Yogurt",
+      "Salt",
+      "Red Chilli Powder",
+      "Chaat Masala",
+      "Soya Sauce"
+    ],
+    "Creamy Crunch Salad with Corn & Avocado": [
+      "Green Salad",
+      "Cucumber",
+      "Salad Tomatoes",
+      "Onions",
+      "Corns",
+      "Avocado",
+      "Kidney Beans",
+      "Coriander Leaves",
+      "Jalapeno (bottled)",
+      "Yogurt",
+      "Mayonnaise",
+      "Lemon Juice",
+      "Garlic Paste",
+      "Honey",
+      "Paprika Powder",
+      "Cumin Powder",
+      "Salt",
+      "Black Pepper",
+      "Red Chilli Powder"
+    ],
+    "Veggie Kebab Mix": [
+      "Chicken Keema",
+      "Ginger Garlic Paste",
+      "Onions",
+      "Salt",
+      "Red Chilli Powder",
+      "Red Chilli Flakes",
+      "Coriander Powder",
+      "Cumin Powder",
+      "Chaat Masala",
+      "Coriander Leaves",
+      "Red Bell Pepper",
+      "Capsicum",
+      "Potatoes",
+      "Black Pepper"
     ]
   },
   "Seafood": {
     "Baked Salmon": [
+      "Salmon",
+      "Salt",
+      "Black Pepper"
     ]
   },
   "Continental": {
