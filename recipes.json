@@ -1,7 +1,23 @@
 {
   "Chicken": {
-    "White Chicken Handi": [],
     "Achari Chicken": [],
+    "White Chicken Handi": [
+      "Boneless Chicken",
+      "Onions",
+      "Garlic Paste",
+      "Ginger",
+      "Tomatoes",
+      "Green Chillies",
+      "Butter",
+      "Cumin Powder",
+      "Coriander Powder",
+      "White Pepper Powder",
+      "Black Pepper",
+      "Yogurt",
+      "Cream",
+      "Coriander Leaves",
+      "Garam Masala"
+    ],    
     "Steam Chicken": [
       "Chicken Leg Quarters",
       "Salt",
@@ -11,27 +27,7 @@
       "Chaat Masala",
       "Garlic Paste",
       "Food Color"
-    ],
-    "Grilled Chicken with Garlic Rice": [
-      "Boneless Chicken",
-      "Paprika Powder",
-      "Black Pepper",
-      "Salt",
-      "Ginger Garlic Paste",
-      "Coriander Leaves",
-      "Soya Sauce",
-      "Vinegar",
-      "Butter",
-      "Onions",
-      "Garlic Paste",
-      "Flour(Maida)",
-      "Chilli Garlic Sauce",
-      "Knorr Chicken Cubes",
-      "Green Onions",
-      "Rice",
-      "Capsicum",
-      "Red Bell Pepper"
-    ],
+    ],    
     "Chicken Karahi": [
       "Chicken",
       "Tomatoes",
@@ -425,6 +421,7 @@
       "Coriander Leaves"
     ],
     "Palak Gosht": [
+      "Spinach Cans",
       "Goat",
       "Onions",
       "Tomatoes",
@@ -501,6 +498,29 @@
       "Whole Red Chillies",
       "Yogurt",
       "Tomatoes"
+    ],
+    "Daygi Biryani":[
+      "Goat",
+      "Onions",
+      "Ginger",
+      "Garlic",
+      "Salt",
+      "Whole Coriander",
+      "Saunf",
+      "Black Pepper Corns",
+      "Cloves",
+      "Cinnamon",
+      "Star-anise",
+      "Bay Leaves",
+      "Green Cardamom",
+      "Black Cardamom",
+      "Rice",
+      "Yogurt",
+      "Milk",
+      "Saffron",
+      "Food Color",
+      "Jaifal Powder",
+      "Javatri Powder"
     ]
   },
   "Vegetable": {
@@ -510,7 +530,79 @@
       "Tomatoes",
       "Turmeric Powder",
       "Cumin Powder",
-      "Salt"
+      "Salt",
+      "Garam Masala",
+      "Green Chillies",
+      "Coriander Leaves"
+    ],
+    "Egg Fried Rice":[
+      "Garlic Paste",
+      "Carrots",
+      "Capsicum",
+      "Cabbage",
+      "Salt",
+      "Black Pepper",
+      "Vinegar",
+      "Soya Sauce",
+      "Green Onions",
+      "Eggs"
+    ],
+    "Aalu Mattar Pulao":[
+      "Onions",
+      "Tomatoes",
+      "Salt",
+      "Red Chilli Powder",
+      "Cumin Powder",
+      "Ginger Garlic Paste",
+      "Potatoes",
+      "Peas",
+      "Rice"
+    ],
+    "Achari Aalu":[
+      "Potatoes",
+      "Tomatoes",
+      "Kalongi",
+      "Whole Cumin",
+      "Turmeric Powder",
+      "Salt",
+      "Coriander Powder",
+      "Red Chilli Flakes",
+      "Crushed Pickles"
+    ],
+    "Saag":[
+      "Saag",
+      "Fresh Palak",
+      "Salt",
+      "Red Chilli Powder",
+      "Cumin Powder",
+      "Atta",
+      "Butter"
+    ],
+    "Aalu Meethi":[
+      "Ginger Garlic Paste",
+      "Tomatoes",
+      "Fresh Meethi",
+      "Fresh Palak",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Yogurt",
+      "Potatoes"
+    ],
+    "Curry Pakora":[
+      "Baisan",
+      "Yogurt",
+      "Onions",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Red Chilli Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Bay Leaves",
+      "Baking Soda",
+      "Green Chillies",
+      "Cumin Powder",
+      "Coriander Leaves"
     ]
   },
   "Lentils": {
@@ -597,7 +689,7 @@
       "Kashmiri Chilli Powder",
       "Cumin Powder",
       "Coriander Powder",
-      "Turmeric",
+      "Turmeric Powder",
       "Shan Tandoori Masala",
       "Salt",
       "Green Salad",
@@ -754,7 +846,37 @@
       "Chicken",
       "Creme Fraiche",
       "Cheddar Cheese",
-      "Sea Shell Pasta"
+      "Sea Shell Pasta",
+      "Onions",
+      "Capsicum",
+      "Lemon Juice",
+      "Knorr Chicken Cubes",
+      "Salt",
+      "Black Pepper",
+      "Red Chilli Powder",
+      "Butter",
+      "Flour(Maida)",
+      "Milk"
+    ],
+    "Grilled Chicken with Garlic Rice": [
+      "Boneless Chicken",
+      "Paprika Powder",
+      "Black Pepper",
+      "Salt",
+      "Ginger Garlic Paste",
+      "Coriander Leaves",
+      "Soya Sauce",
+      "Vinegar",
+      "Butter",
+      "Onions",
+      "Garlic Paste",
+      "Flour(Maida)",
+      "Chilli Garlic Sauce",
+      "Knorr Chicken Cubes",
+      "Green Onions",
+      "Rice",
+      "Capsicum",
+      "Red Bell Pepper"
     ]
   }
 }
