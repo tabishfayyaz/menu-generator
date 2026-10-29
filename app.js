@@ -164,46 +164,6 @@ function replaceDish(index) {
 
 function ingredientKey(value) { return value.trim().toLocaleLowerCase(); }
 
-// Run validateRecipeIngredients() in the browser console to check the two JSON files.
-async function validateRecipeIngredients() {
-  const [recipeResponse, ingredientResponse] = await Promise.all([
-    fetch("recipes.json", { cache: "no-store" }),
-    fetch("ingredients.json", { cache: "no-store" })
-  ]);
-  if (!recipeResponse.ok || !ingredientResponse.ok) {
-    throw new Error("Could not load recipes.json or ingredients.json");
-  }
-
-  const [recipes, masterIngredients] = await Promise.all([
-    recipeResponse.json(),
-    ingredientResponse.json()
-  ]);
-  if (!Array.isArray(masterIngredients) || !masterIngredients.every(item => typeof item === "string")) {
-    throw new Error("ingredients.json must contain an array of ingredient strings");
-  }
-
-  const masterKeys = new Set(masterIngredients.map(ingredientKey));
-  const missing = [];
-  for (const [category, dishes] of Object.entries(recipes)) {
-    for (const [recipe, ingredients] of Object.entries(dishes)) {
-      for (const ingredient of ingredients) {
-        if (!masterKeys.has(ingredientKey(ingredient))) {
-          missing.push({ category, recipe, ingredient });
-        }
-      }
-    }
-  }
-
-  if (missing.length) {
-    console.error(`Ingredient check failed: ${missing.length} missing ingredient reference(s).`, missing);
-  } else {
-    console.info("Ingredient check passed: every recipe ingredient exists in ingredients.json.");
-  }
-  return { valid: missing.length === 0, missing };
-}
-
-window.validateRecipeIngredients = validateRecipeIngredients;
-
 function renderShoppingList() {
   const ingredients = new Map();
   for (const dish of state.menu) {

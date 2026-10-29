@@ -36,7 +36,7 @@ From the project directory, run this command in a terminal (requires Node.js; no
 node validate-recipes.js
 ```
 
-The validator checks that every recipe ingredient appears in `ingredients.json`, that the master list has no duplicate values, and that recipe names are unique across all categories. Duplicate checks ignore capitalization and surrounding whitespace. If an ingredient is missing, it reports the recipe and suggests up to three similar existing master-list values when available. It exits with a non-zero status on failure, so it can also be used in scripts or CI checks. Alternatively, serve the app locally, open the browser developer console, and run `await validateRecipeIngredients()` to check recipe ingredient references (the terminal validator performs the full set of checks).
+The validator checks that every recipe ingredient appears in `ingredients.json`, that the master list has no duplicate values, and that recipe names are unique across all categories. Duplicate checks ignore capitalization and surrounding whitespace. If an ingredient is missing, it reports the recipe and suggests up to three similar existing master-list values when available. It exits with a non-zero status on failure, so it can also be used in scripts or CI checks.
 
 ## Run locally
 
