@@ -1,6 +1,8 @@
 {
   "Chicken": {
-    "Achari Chicken": [],
+    "Achari Chicken": [
+
+    ],
     "White Chicken Handi": [
       "Boneless Chicken",
       "Onions",
@@ -93,7 +95,8 @@
       "Elaichi Powder",
       "Salt",
       "Jaifal Powder",
-      "Food Color"
+      "Food Color",
+      "Baby Potatoes"
     ],
     "Kaali Mirchi Chicken Karahi": [
       "Chicken",
@@ -524,6 +527,16 @@
     ]
   },
   "Vegetable": {
+    "Aalu Aanday":[
+      "Potatoes",
+      "Onions",
+      "Tomatoes",
+      "Eggs",
+      "Salt",
+      "Red Chilli Powder",
+      "Black Pepper",
+      "Coriander Leaves"
+    ],
     "Gobi": [
       "Gobi",
       "Onions",
@@ -877,6 +890,45 @@
       "Rice",
       "Capsicum",
       "Red Bell Pepper"
+    ],
+    "Chicken Shawarma":[
+      "Boneless Chicken",
+      "Yogurt",
+      "Salt",
+      "Red Chilli Powder",
+      "Onion Powder",
+      "Cumin Powder",
+      "Turmeric Powder",
+      "Black Pepper",
+      "Garlic Powder",
+      "Coriander Powder",
+      "Red Chilli Flakes",
+      "Lemon Juice",
+      "Sesame Seeds",
+      "Garlic",
+      "Vinegar",
+      "Mayonnaise",
+      "Oregano",
+      "Tortilla",
+      "Iceberg",
+      "Onions",
+      "Capsicum"
+    ],
+    "Club Sandwich":[
+      "Boneless Chicken",
+      "Yogurt",
+      "Paprika Powder",
+      "Shan Tikka Masala",
+      "Lemon Juice",
+      "Ginger Garlic Paste",
+      "Salt",
+      "Eggs",
+      "Bread",
+      "Mayonnaise",
+      "Ketchup",
+      "Iceberg",
+      "Sliced Cheese",
+      "Cucumber"
     ]
   }
 }
